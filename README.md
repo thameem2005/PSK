@@ -55,11 +55,11 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output Waveform:
-
 ![image](https://github.com/user-attachments/assets/9866c111-63a4-4285-82a4-00f4ed790145)
-## Results:
-THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PYTHON
 ## Hardware experiment output waveform:
 
 ![image](https://github.com/user-attachments/assets/00ad6f38-2021-4011-82b3-1f52cec63eda)
+
+## Results:
+THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PYTHON
 
